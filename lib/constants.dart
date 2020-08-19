@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // const for colors and height
-const kBottomContainerHeight = 80.0;
+const kBottomContainerHeight = 70.0;
 const kActiveCardColor = Color(0xff1d1e33);
 const kInactiveCardColor = Color(0xff111328);
 const kBottomContainerColor = Color(0xffeb1555);
